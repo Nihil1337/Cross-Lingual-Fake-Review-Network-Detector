@@ -274,4 +274,3 @@ Một bản demo tốt không cần xử lý toàn bộ hàng triệu review. Qu
 > Hệ thống xếp hạng các cụm review có nội dung trùng lặp ngữ nghĩa xuyên ngôn ngữ và tín hiệu bất thường để hỗ trợ điều tra.
 
 Định vị này vừa đủ tham vọng để tạo một project nổi bật, vừa trung thực với giới hạn của dữ liệu và nhãn hiện có.
-

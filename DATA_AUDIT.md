@@ -66,4 +66,3 @@ Có thể bắt đầu POC mà chưa cần thêm dataset mới:
 5. chỉ mở rộng sang nguồn có timestamp sau khi pipeline pair-level đã ổn định.
 
 Như vậy, dữ liệu hiện có đủ để bắt đầu xây pipeline. Phần còn thiếu lớn nhất không phải thêm thật nhiều dữ liệu, mà là timestamp cho temporal analysis, metadata synthetic và protocol đánh giá chống leakage.
-
