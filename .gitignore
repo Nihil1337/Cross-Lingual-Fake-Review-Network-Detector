@@ -1,0 +1,34 @@
+# Thư mục lưu Cache mô hình (Transformers, PyTorch, Hugging Face...)
+.cache/
+hf_cache/
+models/
+checkpoint*/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Thư mục Vector Index & Embeddings (FAISS, Chroma, LanceDB...)
+chroma_db/
+faiss_index/
+vector_store/
+embeddings/
+*.index
+*.pkl
+
+# Các dữ liệu sinh ra tự động / Data tạm
+data/processed/
+data/embeddings/
+data/cache/
+*.parquet
+*.feather
+
+# Môi trường Python và bytecode cục bộ
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Dataset gốc tải riêng, xem DATA_AUDIT.md
+data/Amazon Reviews Multi/
+data/UIT-ViSFD/
